@@ -1,5 +1,5 @@
 # Verilog-and-HDL-simulation-using-Modelsim
-Read CA1.pdf
+Read CA1.pdf//
 In this assignment, you will get familiar with Verilog coding and HDL simulation using
 Siemens EDA Questa (Modelsim). You start by installing/running Questa, writing an
 HDL code, and simulating the hardware description of a simple function. You then
