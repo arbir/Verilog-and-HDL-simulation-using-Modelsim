@@ -1,0 +1,29 @@
+{F:/Grad School/VLSI/practice verilog/cmos.sv} {1 {vlog -work work -vopt -sv -stats=none {F:\Grad School\VLSI\practice verilog\cmos.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.1 Compiler 2023.01 Jan 23 2023
+-- Compiling module transistor_level
+
+Top level modules:
+	transistor_level
+
+} {} {}} {F:/Grad School/VLSI/practice verilog/testbench_cmos.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/Grad School/VLSI/practice verilog/testbench_cmos.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.1 Compiler 2023.01 Jan 23 2023
+-- Compiling module testbench_cmos
+
+Top level modules:
+	testbench_cmos
+
+} {} {}} {F:/Grad School/VLSI/practice verilog/inv.sv} {1 {vlog -work work -vopt -sv -stats=none {F:\Grad School\VLSI\practice verilog\inv.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.1 Compiler 2023.01 Jan 23 2023
+-- Compiling module invert
+
+Top level modules:
+	invert
+
+} {} {}} {F:/Grad School/VLSI/practice verilog/sim.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/Grad School/VLSI/practice verilog/sim.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.1 Compiler 2023.01 Jan 23 2023
+-- Compiling module sim
+
+Top level modules:
+	sim
+
+} {} {}}

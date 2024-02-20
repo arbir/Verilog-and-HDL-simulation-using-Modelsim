@@ -1,0 +1,175 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+Z2 !s12c _opt2
+R1
+R2
+R1
+R2
+R1
+Z3 !s12c _opt
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R0
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+!s11e vcom 2023.1 2023.01, Jan 23 2023
+!s11f vlog 2023.1 2023.01, Jan 23 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 dC:/intelFPGA_pro/23.2/questa_fse/win64
+T_opt
+!s110 1694984254
+VGodTGV^8Z0V?G^<?X;4V@3
+Z5 04 3 4 work sim fast 0
+=1-54e1adfb98c9-6507683d-3c7-15d0
+R1
+Z6 !s12b OEM100
+Z7 !s124 OEM10U2 
+Z8 o-quiet -auto_acc_if_foreign -work work +acc
+Z9 tCvgOpt 0
+n@_opt
+Z10 OL;O;2023.1;77
+R4
+T_opt1
+!s110 1695174283
+V5_8F37]I]`Dla7dPLibWM3
+R5
+=1-54e1adfb98c9-650a4e89-373-788
+R1
+R6
+R7
+R8
+R9
+n@_opt1
+R10
+R4
+T_opt2
+!s110 1695003139
+V^P_g>3?ec>7=Q@H6bK72K1
+04 14 4 work testbench_cmos fast 0
+=1-54e1adfb98c9-6507b203-b9-1574
+R1
+R6
+R7
+R8
+R9
+n@_opt2
+R10
+R4
+vinvert
+2{F:\Grad School\VLSI\practice verilog\inv.sv}
+Z11 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1694981221
+!i10b 1
+!s100 JFU15Q=hVD7doCVAT]Ezj3
+IUT4X`FBVZn>?Pom7YTOCd3
+S1
+Z12 dF:/Grad School/VLSI/practice verilog
+w1694980981
+8F:\Grad School\VLSI\practice verilog\inv.sv
+FF:\Grad School\VLSI\practice verilog\inv.sv
+!i122 4
+L0 1 8
+Z13 VDg1SIo80bB@j0V0VzS_@n1
+Z14 OL;L;2023.1;77
+r1
+!s85 0
+31
+!s108 1694981221.000000
+!s107 F:\Grad School\VLSI\practice verilog\inv.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|F:\Grad School\VLSI\practice verilog\inv.sv|
+!i113 0
+Z15 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R9
+vsim
+2{F:/Grad School/VLSI/practice verilog/sim.sv}
+R11
+!s110 1695174258
+!i10b 1
+!s100 =>i;RgP9nk?F<>9Ykbj^01
+Ij7PiXaHC0ln8G8VflSQe43
+S1
+R12
+w1695059702
+8F:/Grad School/VLSI/practice verilog/sim.sv
+FF:/Grad School/VLSI/practice verilog/sim.sv
+!i122 16
+Z16 L0 1 103
+R13
+R14
+r1
+!s85 0
+31
+!s108 1695174258.000000
+!s107 F:/Grad School/VLSI/practice verilog/sim.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|F:/Grad School/VLSI/practice verilog/sim.sv|
+!i113 0
+R15
+R9
+vtestbench_cmos
+2{F:/Grad School/VLSI/practice verilog/testbench_cmos.sv}
+R11
+!s110 1695260161
+!i10b 1
+!s100 ?O6OO?b0OdboJH[h?<8B20
+I5=G?ho`87?EKVz7YWQgN73
+S1
+R12
+w1695258496
+8F:/Grad School/VLSI/practice verilog/testbench_cmos.sv
+FF:/Grad School/VLSI/practice verilog/testbench_cmos.sv
+!i122 17
+R16
+R13
+R14
+r1
+!s85 0
+31
+!s108 1695260161.000000
+!s107 F:/Grad School/VLSI/practice verilog/testbench_cmos.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|F:/Grad School/VLSI/practice verilog/testbench_cmos.sv|
+!i113 0
+R15
+R9
+vtransistor_level
+2{F:\Grad School\VLSI\practice verilog\cmos.sv}
+R11
+!s110 1695003068
+!i10b 1
+!s100 ?l7lE@N@Y8X>YB@eNYXkP0
+Inn4TOObzdg8BN?YM@40YS0
+S1
+R12
+w1695003056
+8F:\Grad School\VLSI\practice verilog\cmos.sv
+FF:\Grad School\VLSI\practice verilog\cmos.sv
+!i122 14
+L0 1 17
+R13
+R14
+r1
+!s85 0
+31
+!s108 1695003068.000000
+!s107 F:\Grad School\VLSI\practice verilog\cmos.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|F:\Grad School\VLSI\practice verilog\cmos.sv|
+!i113 0
+R15
+R9

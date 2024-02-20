@@ -1,0 +1,382 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2023.1 2023.01, Jan 23 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dF:/Grad School/VLSI/MIPS
+T_opt
+!s110 1695235796
+V36zCE]NM0HT22a=9fTiZV3
+04 3 4 work top fast 0
+=1-54e1adfb98c9-650b3ed4-120-3cc
+R1
+!s12b OEM100
+!s124 OEM10U25 
+o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2023.1;77
+valu
+Z4 2mipstest.v
+Z5 !s110 1695235780
+!i10b 1
+!s100 _2k9GL[GizebAoMJSV@Pk0
+If92i2:iWIzF@E>ibe^eLc3
+R2
+Z6 w1694744980
+Z7 8mips.v
+Z8 Fmips.v
+!i122 28
+L0 268 23
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2023.1;77
+r1
+!s85 0
+31
+Z11 !s108 1695235780.000000
+Z12 !s107 mips.v|
+Z13 !s90 -reportprogress|300|mips.v|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+valucontrol
+R4
+R5
+!i10b 1
+!s100 ^`P8;3f_LfBlJJTQY8KTb0
+I;0iid4Z9]hW_:JoP4d<:e2
+R2
+R6
+R7
+R8
+!i122 28
+L0 194 18
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vcontroller
+R4
+R5
+!i10b 1
+!s100 U7c;l08zLEmdh]MkKnS6_1
+I<j7;d1BQ_Tomg=7e?a9T50
+R2
+R6
+R7
+R8
+!i122 28
+L0 27 165
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vdatapath
+R4
+R5
+!i10b 1
+!s100 BIW1k`WaaFF6NTIbUOWQ20
+IH2<<CTb`=SfVZO`A7mglB3
+R2
+R6
+R7
+R8
+!i122 28
+L0 214 53
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vexmem
+R4
+R5
+!i10b 1
+!s100 z=?oVh<TjhZd5DPQ`ZIZm1
+I^^WkC6Y61cP9DISm]6:fe2
+R2
+w1694730160
+8exmem.v
+Fexmem.v
+!i122 29
+L0 2 30
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 exmem.v|
+!s90 -reportprogress|300|exmem.v|
+!i113 0
+R14
+R3
+vflop
+R4
+R5
+!i10b 1
+!s100 c2n?_8TGY^;zlVf_7io;i2
+I^6ScCDRf<[oLkJcmRol_H3
+R2
+R6
+R7
+R8
+!i122 28
+L0 319 8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vflopen
+R4
+R5
+!i10b 1
+!s100 FcGm;[6cIVkhl<;DMS_Q:3
+IRD_^ZIcRd3[BWRMJ_4`CL1
+R2
+R6
+R7
+R8
+!i122 28
+L0 328 8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vflopenr
+R4
+R5
+!i10b 1
+!s100 fcB:LgkF^CQzfB[2L9GaR0
+IVZPIJ]Nk;WQ42E[<>7dM:2
+R2
+R6
+R7
+R8
+!i122 28
+L0 337 9
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vmips
+R4
+R5
+!i10b 1
+!s100 zUC^MzdkEk0E5OzHAJPb00
+IiESdefeQ1D`M^bNK@>lmT3
+R2
+R6
+R7
+R8
+!i122 28
+L0 3 22
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vmips_mem
+R4
+R5
+!i10b 1
+!s100 HJTT97Dl1k8[X9Lb<UacM0
+I97O<L8cc:1R_H]MLRf?gB0
+R2
+w1518079932
+8mipsmem.v
+Fmipsmem.v
+!i122 30
+L0 7 15
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 mipsmem.v|
+!s90 -reportprogress|300|mipsmem.v|
+!i113 0
+R14
+R3
+vmux2
+R4
+R5
+!i10b 1
+!s100 IT8SB_dPj:i]TB=WNjQz=2
+IeE?`58A_zHzbK3nTT@6ib2
+R2
+R6
+R7
+R8
+!i122 28
+L0 347 7
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vmux4
+R4
+R5
+!i10b 1
+!s100 cChAU:<>=]ecPfanJ?19^2
+IV6HXNVXhDh?<_O`Q]Qi3z3
+R2
+R6
+R7
+R8
+!i122 28
+L0 355 13
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vregfile
+R4
+R5
+!i10b 1
+!s100 aj@<XgKCe<5@^QZk0jmbk1
+I75N81hbPWR9MIfl[Q[C@j2
+R2
+R6
+R7
+R8
+!i122 28
+L0 292 19
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3
+vtop
+R4
+!s110 1695235781
+!i10b 1
+!s100 SjXa]c<Vbo?F;mZEV33WQ0
+I:1NWYei6fZlNGZoUnz^Rh1
+R2
+w1663881250
+8mipstest.v
+Fmipstest.v
+!i122 31
+L0 5 29
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 mipstest.v|
+!s90 -reportprogress|300|mipstest.v|
+!i113 0
+R14
+R3
+vzerodetect
+R4
+R5
+!i10b 1
+!s100 Zl:QiZoP4e7Xb>^`3Gm^H2
+Ij<LQ3DgHV[V3U[R6UlofI1
+R2
+R6
+R7
+R8
+!i122 28
+L0 312 6
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R3

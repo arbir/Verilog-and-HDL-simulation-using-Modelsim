@@ -1,0 +1,1 @@
+C:\intelFPGA_pro\23.2\questa_fse\win64\vsim.exe  -do simulate.tcl
